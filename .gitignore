@@ -1,0 +1,7 @@
+
+# Don't include blenders backup files
+*.blend1
+*.kra~
+
+# Don't include the large-ish emission source file, since it isn't interesting...
+emission.kra
